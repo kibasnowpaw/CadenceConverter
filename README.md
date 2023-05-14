@@ -7,9 +7,13 @@ Installation
 This script requires Python 3 and several Python libraries: moviepy, tqdm, enzyme, and mutagen. If you haven't installed them yet, you can do so with the following commands:
 
 Copy code
+
 pip install moviepy
+
 pip install tqdm
+
 pip install enzyme
+
 pip install mutagen
 
 Usage
